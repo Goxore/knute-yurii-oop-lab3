@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JsDZ8glwJYnIJkBiOYrLEb7QoHkFCMhfMPBbUWELnFdy6SfWOn6qc53db0FIvJR0cm/e4eW7br04qqG/++iMhQ==",
+  "success": true,
+  "projectFilePath": "/home/yurii/Projects/uni/OOP/lab3/code/code2.csproj",
+  "expectedPackageFiles": [
+    "/home/yurii/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
